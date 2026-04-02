@@ -1,0 +1,7 @@
+This project focuses on analyzing a retail Superstore dataset using Microsoft Excel to understand sales performance and business trends.
+The dataset includes information such as order date, region, category, sales, quantity, and profit.
+Data cleaning was performed to remove duplicates and ensure proper formatting. 
+Pivot tables, filters, and Excel charts were used to analyze sales by region, category, and time.
+The analysis helped identify top-performing product categories, high-sales regions, and profit patterns. 
+Visualizations such as bar charts, pie charts, and line charts were created to clearly present the insights. 
+The project demonstrates how Excel can be used for data analysis to support business decisions and improve sales
