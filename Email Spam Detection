@@ -1,0 +1,6 @@
+This project focuses on building an Email Spam Detection system using Artificial Intelligence and Machine Learning techniques.
+The goal of the project is to automatically classify emails as spam or non-spam (ham).
+The dataset containing labeled emails was first preprocessed by cleaning the text, removing stopwords, and converting the text into numerical format using Natural Language Processing (NLP) techniques such as CountVectorizer or TF-IDF.
+Machine learning algorithms like Naive Bayes, Logistic Regression, or Support Vector Machine (SVM) were used to train the model.
+The model learns patterns from the email text and predicts whether a new email is spam or not. Python libraries such as NumPy, Pandas, Scikit-learn, and NLTK were used for data preprocessing, model training, and evaluation.
+The project demonstrates how AI and ML can be applied to improve email security by filtering unwanted or harmful messages automatically.
